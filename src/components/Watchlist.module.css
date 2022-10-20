@@ -1,0 +1,8 @@
+.watchlist {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    justify-content: space-beteen;
+    padding-left:2em;
+    padding-right:2em;
+}

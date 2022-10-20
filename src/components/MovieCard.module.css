@@ -1,0 +1,21 @@
+
+
+.movie-card {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;   
+    text-align: center;
+    width: 250px;
+    margin-top: 1em;  
+    
+  }
+
+.cover-image {
+    width: 250px;
+  }
+
+.movie-title {
+  width: 250px;
+}
+
